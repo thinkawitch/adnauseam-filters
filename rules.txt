@@ -1,0 +1,7 @@
+behind-the-scene * 3p noop
+behind-the-scene * 3p-frame noop
+www.onliner.by ad.onliner.by * block
+www.tut.by bugaga.tut.by * block
+www.tut.by preved.tut.by * block
+www.tut.by reklama-cluster.tut.by * block
+www.tut.by s2r.tut.by * block
