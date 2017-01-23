@@ -1,3 +1,4 @@
+* api.venyoo.ru * block
 * code.jivosite.com * block
 behind-the-scene * 3p noop
 behind-the-scene * 3p-frame noop
@@ -6,3 +7,4 @@ www.tut.by bugaga.tut.by * block
 www.tut.by preved.tut.by * block
 www.tut.by reklama-cluster.tut.by * block
 www.tut.by s2r.tut.by * block
+
