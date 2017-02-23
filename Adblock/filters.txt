@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Checksum: IAX/P2lnIJq8cx4AyWJadQ
+! Checksum: wjE0HR1ZBIL/J5+TQOvz5A
 ! [My filter]
 cdn.envybox.io
 chat.chatra.io*
@@ -21,4 +21,7 @@ forum.onliner.by###like-buttons
 ||facebook.com/plugins/*$domain=onliner.by
 ||platform.twitter.com^$domain=onliner.by
 ||vk.com/js/api/*$domain=onliner.by
-||an.yandex.ru/system/context.js$domain=onliner.by
+||an.yandex.ru/system/context.js$domain=onliner.by|habrahabr.ru
+habrahabr.ru###TMpanel
+habrahabr.ru##.xyz_wrapper
+habrahabr.ru##.column-wrapper_bottom
