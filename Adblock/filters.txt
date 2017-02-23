@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Checksum: g/7dLypuJIoL/NIiCIW1Tw
+! Checksum: vl0MPYSP5FXCAE0tZ7VuuQ
 ! [My filter]
 cdn.envybox.io
 chat.chatra.io*
@@ -25,6 +25,6 @@ forum.onliner.by###like-buttons
 habrahabr.ru###TMpanel
 habrahabr.ru##.xyz_wrapper
 habrahabr.ru##.column-wrapper_bottom
-fishki.net##. gallery.expanded-post
 fishki.net##.related
+fishki.net###list_videogallery
 fishki.net##.container-slider-top
