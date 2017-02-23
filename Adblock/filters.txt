@@ -1,0 +1,24 @@
+[Adblock Plus 2.8]
+! Checksum: IAX/P2lnIJq8cx4AyWJadQ
+! [My filter]
+cdn.envybox.io
+chat.chatra.io*
+api.venyoo.ru*
+cdn.jivosite.com
+code.jivosite.com
+code2.jivosite.com
+telemetry.jivosite.com
+*.me-talk.ru*
+onliner.by##.b-tiles
+onliner.by##.bnr-top-wide
+baraholka.onliner.by###yandex-banner-area
+baraholka.onliner.by##.banner-helper-wrapper
+baraholka.onliner.by##.banner-centered
+forum.onliner.by##.banner-wrapper
+forum.onliner.by##.b-autobaraholka-banner-2
+forum.onliner.by###like-buttons
+||connect.facebook.net/*$domain=onliner.by
+||facebook.com/plugins/*$domain=onliner.by
+||platform.twitter.com^$domain=onliner.by
+||vk.com/js/api/*$domain=onliner.by
+||an.yandex.ru/system/context.js$domain=onliner.by
