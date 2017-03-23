@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Checksum: vl0MPYSP5FXCAE0tZ7VuuQ
+! Checksum: ns2kec/9a0PqoFANPJ69lw
 ! [My filter]
 cdn.envybox.io
 chat.chatra.io*
@@ -17,14 +17,18 @@ baraholka.onliner.by##.banner-centered
 forum.onliner.by##.banner-wrapper
 forum.onliner.by##.b-autobaraholka-banner-2
 forum.onliner.by###like-buttons
-||connect.facebook.net/*$domain=onliner.by
-||facebook.com/plugins/*$domain=onliner.by
-||platform.twitter.com^$domain=onliner.by
-||vk.com/js/api/*$domain=onliner.by
-||an.yandex.ru/system/context.js$domain=onliner.by|habrahabr.ru
+||connect.facebook.net/*$domain=onliner.by|tut.by
+||facebook.com/plugins/*$domain=onliner.by|tut.by
+||platform.twitter.com^$domain=onliner.by|tut.by
+||vk.com/js/api/*$domain=onliner.by|tut.by
+||an.yandex.ru/system/context.js$domain=onliner.by|habrahabr.ru|tut.by
 habrahabr.ru###TMpanel
 habrahabr.ru##.xyz_wrapper
 habrahabr.ru##.column-wrapper_bottom
 fishki.net##.related
 fishki.net###list_videogallery
 fishki.net##.container-slider-top
+tut.by##.top-offer
+tut.by##.branding_top_links
+tut.by##.branding_bottom_links
+tut.by##.b-prmplace
